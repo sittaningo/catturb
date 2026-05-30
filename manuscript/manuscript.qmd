@@ -1,0 +1,54 @@
+---
+title: Title about here
+subtitle: Subtitle about here
+author:
+  - name: Shingo Nitta
+    corresponding: true
+    email: 20249157@gakushuin.ac.jp
+    affiliations:
+      - name: Japan Society for the Promotion of Science
+      - name: Gakushuin University
+        address: 1-5-1 Mejiro, Toshima-ku
+        city: Tokyo
+        postal-code: 171-8588
+        country: Japan
+date: today
+format: html
+# format:
+#   academic-typst:
+#     section-numbering: "1.1.1"
+# format:
+#   docx:
+#     reference-doc: custom-reference-doc.docx
+#     link-citations: true
+abstract: |
+  This study investigates .... 
+keywords: [A, B, C]
+execute: 
+  echo: false
+bibliography: references.bib
+---
+
+## Acknowledgments {.appendix}
+
+A replication package is available at github.com/sittaningo/replication/tree/main/XXX. When the paper is accepted, the replication package in gitub will be archived on Dataverse. [about data]. [appreciate feedbacks].
+
+## Funding {.appendix}
+
+This work was supported by JSPS KAKENHI Grant Numbers JP24KJ1919. 
+
+## Conflict of Interest {.appendix}
+
+None declared.
+
+# Introduction
+
+
+# Data and Methods
+
+
+# Results
+
+
+# Discussion
+

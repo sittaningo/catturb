@@ -1,0 +1,35 @@
+---
+title: Appendix of "Title about here"
+author:
+  - name: Shingo Nitta
+    corresponding: true
+    email: 20249157@gakushuin.ac.jp
+    affiliations:
+      - name: Japan Society for the Promotion of Science
+      - name: Gakushuin University
+        address: 1-5-1 Mejiro, Toshima-ku
+        city: Tokyo
+        postal-code: 171-8588
+        country: Japan
+date: today
+abstract: |
+  This study investigates ...
+keywords: [A, B, C, D]
+format:
+  html:
+    code-fold: show
+    code-overflow: wrap
+# format:
+#   docx:
+#     reference-doc: custom-reference-doc.docx
+#     link-citations: true
+crossref:
+  fig-title: Figure S
+  tbl-title: Table S
+execute: 
+  echo: true
+bibliography: references.bib
+# csl: social-science-and-medicine.csl
+---
+
+# Section
