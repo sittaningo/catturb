@@ -1,0 +1,103 @@
+<mxfile host="Electron">
+  <diagram name="ページ-1" id="brQW_g9wLJ9PcokKykCy">
+    <mxGraphModel dx="309" dy="214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OPLi2fowqDmPShS7pKmo-1" edge="1" parent="1" source="OPLi2fowqDmPShS7pKmo-21" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="390" />
+              <mxPoint x="160" y="390" />
+            </Array>
+            <mxPoint x="220" y="440" as="sourcePoint" />
+            <mxPoint x="160" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="185" y="300" as="sourcePoint" />
+            <mxPoint x="185" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="180" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="205" y="370" as="sourcePoint" />
+            <mxPoint x="205" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-6" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="200" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="265" y="300" as="sourcePoint" />
+            <mxPoint x="265" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="260" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="285" y="370" as="sourcePoint" />
+            <mxPoint x="285" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-10" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="280" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-15" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="335" y="350" as="sourcePoint" />
+            <mxPoint x="335" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="330" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-17" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="355" y="380" as="sourcePoint" />
+            <mxPoint x="355" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-18" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="350" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-19" edge="1" parent="1" source="OPLi2fowqDmPShS7pKmo-22" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="390" />
+              <mxPoint x="240" y="390" />
+            </Array>
+            <mxPoint x="300" y="440" as="sourcePoint" />
+            <mxPoint x="240" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-20" edge="1" parent="1" source="OPLi2fowqDmPShS7pKmo-23" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="390" />
+              <mxPoint x="320" y="390" />
+            </Array>
+            <mxPoint x="370" y="440" as="sourcePoint" />
+            <mxPoint x="320" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%22Montserrat%22&quot; face=&quot;M PLUS 1p&quot;&gt;若年期&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="160" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%22Montserrat%22&quot; face=&quot;M PLUS 1p&quot;&gt;壮年期&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="240" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="OPLi2fowqDmPShS7pKmo-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%22Montserrat%22&quot; face=&quot;M PLUS 1p&quot;&gt;高齢期&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="320" y="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

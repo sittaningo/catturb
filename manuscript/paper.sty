@@ -107,6 +107,8 @@ Available at \url{#2}}}}
 % ---- Format headings ----
 
 \usepackage{titlesec}
+% TeX Live 2022 titlesec bug workaround (safe no-op on fixed versions)
+\@ifpackagelater{titlesec}{2021/07/05}{}{\patchcmd{\ttl@extract}{\paragraph}{\ttl@@paragraph}{}{}}
 
 % Section headings
 \titleformat*{\section}{\centering\large\bfseries}

@@ -6,8 +6,6 @@ services:
       - TZ=Asia/Tokyo
       - DISABLE_AUTH=true
       - PYTHONUSERBASE=/home/rstudio/.pip
-      # Quarto が XeLaTeX / LuaLaTeX を発見できるよう PATH を明示
-      - PATH=/home/rstudio/.TinyTeX/bin/x86_64-linux:/home/rstudio/.pip/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
     ports:
       - "8787:8787"
     volumes:
@@ -15,7 +13,7 @@ services:
       - renv:/home/rstudio/.cache/R/renv
       - pip:/home/rstudio/.pip
       - julia:/home/rstudio/.julia
-      - TinyTeX:/home/rstudio/.TinyTeX
+      # TinyTeX ボリュームは不要になったため削除
       - fonts:/usr/share/fonts
 
 volumes:
@@ -24,8 +22,6 @@ volumes:
   pip:
     external: true
   julia:
-    external: true
-  TinyTeX:
     external: true
   fonts:
     external: true
