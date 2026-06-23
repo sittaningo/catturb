@@ -23,7 +23,7 @@ format:
     fig-cap-location: bottom
     fig-format: svg
     pdf-separate-fragments: false
-bibliography: ../../catturb.bib
+bibliography: ../../manuscript/catturb.bib
 ---
 
 # Introduction{background="#3D4F99"}
@@ -39,7 +39,7 @@ bibliography: ../../catturb.bib
 
 社会カテゴリにもとづく不平等は社会のあらゆる領域に偏在。
 
-- 労働市場 [@@Goldin.2014hl3]、家族 [@Mclanahan.2004j4]、健康 [@Case.2015]
+- 労働市場 [@Goldin.2014hl3]、家族 [@Mclanahan.2004j4]、健康 [@Case.2015]
 
 <br>
 
@@ -125,8 +125,15 @@ H2. bodily turbluenceの結果、白人---黒人間の差別は減少する。
 
 - gender、raceともに格差があり、高齢期には無くなりそうな文脈の同定。
 
+- 代替的な説明を統御する調査デザインの設計。
 
+  - 失業によるpositional turbluence、障害によるbodily turbluence。
+
+- 書く！
 
 ## Acknowledgement
 
 This work was supported by Grant-in-Aid for JSPS Fellows JP24KJ1919.
+
+## References
+
